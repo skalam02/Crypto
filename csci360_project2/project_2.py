@@ -2,6 +2,7 @@
 #Project Two
 #03/08/17
 #Professor: Alexander Wood
+#ADFGVF German WWI Cipher which encrypts plaintext messages
 
 import math
 keysquare = {'Q':'AA', 'C':'AD', '3':'AF', 'T':'AG', '6':'AV', 'W':'AX',
